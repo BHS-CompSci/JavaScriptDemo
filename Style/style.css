@@ -1,6 +1,20 @@
 body {
-	background-color: #DDFFDD;
-	width: 75%;
-	margin: 0 auto;
+    background-color: #002658;
+    width: 80%;
+    margin: 0 auto;
 }
 
+h1 {
+    background-color: #002040;
+    color: azure;
+    padding: 20px;
+}
+
+.text-box {
+    background-color: #0042B0;
+    float: left;
+    padding: 2%;
+    margin: 2%;
+    width: 25.333%;
+    height: 500px;
+}
