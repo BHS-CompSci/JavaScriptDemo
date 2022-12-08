@@ -18,3 +18,7 @@ h1 {
     width: 25.333%;
     height: 500px;
 }
+
+li {
+    text-transform: capitalize;
+}
